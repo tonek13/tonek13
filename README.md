@@ -40,9 +40,10 @@
 
 ## 📊 GitHub Stats
 
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonek13&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonek13&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tonek13&theme=radical)
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonek13&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonek13&layout=compact&theme=radical&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=tonek13&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D)
+
 
 ---
 
