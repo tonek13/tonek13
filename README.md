@@ -20,6 +20,21 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CUBA Platform](https://img.shields.io/badge/CUBA%20Platform-2C3E50?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAvklEQVQ4T+2UsQ2CQBCEv4mZgEJjJ0OgFQOgAU0gBzoBMyAkmAzCAgmAJIoAEzH4kzwf7WvdTR5R9HfT6CmxYg1kK+CZ0M0pgaHXQ5xZDTm8EhZcWwAp4nLwQhNZyD0nxQOSNIZbYzNLO1zKZSHQuKxKZyQAKfAIC8b9xqSuE2yTRsqeNEcH5jvXJ1Ck1lJo9wnK38BPArAUcpZ2lEAAAAASUVORK5CYII=&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-FFCC00?style=for-the-badge&logo=bruno&logoColor=black)
+
+
 
 ---
 
@@ -34,8 +49,6 @@
 ## 🌍 About Me
 
 - 💼 Software Engineer @ [Anexya](https://www.anexya.com)
-- 🧠 Currently building **VSBL Traceability Cloud** & **TrashCleaner**  
-- ⚙️ Focused on Next.js, Supabase, SQLite-WASM, and data-driven UI design  
-- 🚗 Car enthusiast & tech entrepreneur — always building something new  
+- ⚙️ Focused on React.ts, Next.ts, Supabase, SQLite-WASM, and data-driven UI design  
 
 > “Engineering is about building systems that outlast trends — and inspire trust in every click.”
